@@ -43,3 +43,19 @@ npm install
 
 npm run dev
 
+📸 Media & Branding
+
+All branding assets, logos and images belong to AAB Landscapes LTD and may not be reused without permission 
+
+🔐 Contact Information 
+
+AAB Landscapes LTD
+- 📍 Location: London
+- 📞 Phone: 077467670155
+- 📧 Email: Andreiburuian29@gmail.com
+- 🌐 Website: 
+
+📈 Future Improvements: 
+- Online booking system 
+- Before and after interactive gallery
+- Customer portal
