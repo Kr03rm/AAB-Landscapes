@@ -48,6 +48,31 @@ header{
 
 /* NAVIGATION BAR */
 
+/* Navbar button style */
+.nav-menu .nav-btn {
+  background: #2e7d32;
+  color: white;
+  padding: 8px 18px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.nav-menu .nav-btn:hover {
+  background: #4caf50;
+  transform: scale(1.05);
+  color: white;
+}
+
+/* Optional: Make Contact button stand out more */
+.nav-menu .contact-btn {
+  background: #ff9800;
+}
+
+.nav-menu .contact-btn:hover {
+  background: #fb8c00;
+}
 .navbar{
 background:#1b5e20;
 padding:15px 0;
